@@ -308,7 +308,7 @@ To edit the settings for a specific project, click in the menu
 
 and add the following settings
 
-```json
+```jsonc
 {
 	"settings":
 	{
@@ -327,7 +327,7 @@ and add the following settings
 
 so for example if you want to point pyvoice to a virtual environment your sublime-project file  might look like this
 
-```json
+```jsonc
 {
     "settings":
     {
@@ -348,7 +348,7 @@ so for example if you want to point pyvoice to a virtual environment your sublim
 
 or to see debug logs from the server
 
-```json
+```jsonc
 {
     "settings":
     {
