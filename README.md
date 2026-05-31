@@ -58,8 +58,6 @@ This plugin is implemented as an [LSP](https://packagecontrol.io/packages/LSP) p
 
 ## Pre-requisites
 
-- Make sure you have some version of [Python](https://www.python.org/downloads/) >= 3.8 installed on your system. This is needed for installing and running the pyvoice executable
-
 - Make sure you have [Package Control](https://packagecontrol.io/installation) installed in Sublime Text. If you install it for the first time, you may need to restart Sublime Text
 
 
