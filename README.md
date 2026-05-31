@@ -105,12 +105,6 @@ The project builts on top of the standard [LSP client configuration](https://lsp
         "$server_path"
     ],
 
-    // the python interpreter to use for installing and running
-    // the pyvoice language server. it should be 3.8 and above
-    // pypy may also work. If null, the plug-in will try to
-    // automatically pick a suitable interpreter
-    "python_binary": null,
-
     // environment variables to set when running the language server
     "env": {},
 
