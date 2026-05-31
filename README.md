@@ -96,7 +96,7 @@ The project builts on top of the standard [LSP client configuration](https://lsp
 
 ## Default settings
 
-```json
+```jsonc
 {
     // the command that actually launches the server process
     // leave this as is to use the automatically installed
